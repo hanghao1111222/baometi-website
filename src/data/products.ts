@@ -20,7 +20,7 @@ export const products: Product[] = [
     name: "T2",
     subtitle: "高級モデル",
     price: 29990,
-    image: "https://space.coze.cn/api/coze_space/gen_image?image_size=portrait_4_3&prompt=premium%20electric%20toothbrush%20with%20multiple%20brush%20heads%20in%20luxury%20packaging&sign=e441e5910c9cac28cdf3d0c6e7d16347",
+    image: "/images/7beacaf3.png",
     description: "Baometi T2は、当社の最上級モデルです。40,000回/分の超音波振動と5つのブラッシングモードを搭載し、あらゆるニーズに応えます。スマートタイマー機能で最適なブラッシング時間をガイドし、充電1回で45日間使用可能な長持ちバッテリーを搭載しています。",
     features: [
       "40,000回/分の超音波振動",
@@ -38,7 +38,7 @@ export const products: Product[] = [
     name: "LRT1",
     subtitle: "スタンダードモデル",
     price: 29990,
-    image: "https://space.coze.cn/api/coze_space/gen_image?image_size=portrait_4_3&prompt=modern%20electric%20toothbrush%20in%20minimalist%20design&sign=1d510c2f1ca37fb392a02cdc52573668",
+    image: "/images/93285b5b.png",
     description: "Baometi LRT1は、バランスの取れたスタンダードモデルです。30,000回/分の超音波振動と3つのブラッシングモードを備え、日常の口腔ケアに最適です。USB充電式で、充電1回で30日間使用可能です。",
     features: [
       "30,000回/分の超音波振動",
@@ -55,7 +55,7 @@ export const products: Product[] = [
     name: "Baometi Kids",
     subtitle: "子供用モデル",
     price: 1980,
-    image: "https://space.coze.cn/api/coze_space/gen_image?image_size=portrait_4_3&prompt=colorful%20electric%20toothbrush%20for%20kids%20with%20cartoon%20design&sign=05e5b89771a39f194acbacc7b7aa9582",
+    image: "/images/68960508.png",
     description: "Baometi Kidsは、子供向けに特別に設計されたモデルです。子供に適した20,000回/分の超音波振動と楽しい音声ガイドで、子供が歯磨きを楽しめるようになります。小さな口にフィットするブラシヘッドを搭載しています。",
     features: [
       "20,000回/分の超音波振動（子供用）",

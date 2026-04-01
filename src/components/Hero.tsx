@@ -115,7 +115,7 @@ const Hero = () => {
                                 <div className="flex -space-x-2">
                                     {[1, 2, 3, 4].map(i => <img
                                         key={i}
-                                        src={`https://space.coze.cn/api/coze_space/gen_image?image_size=square&prompt=happy%20smiling%20face%20of%20asian%20person%20with%20white%20teeth&sign=55f6f31e825345c53aa5458c73f84b23`}
+                                        src={`/images/e7c0f702.png`}
                                         alt={`Customer ${i}`}
                                         className="w-8 h-8 rounded-full border-2 border-white" />)}
                                 </div>
@@ -145,7 +145,7 @@ const Hero = () => {
                         <div className="relative w-full h-[400px] md:h-[500px]">
                             {}
                             <img
-                                src="https://space-static.coze.site/coze_space/7618061609940664576/upload/%E9%BB%91%E8%89%B2%E5%8C%85%E8%A3%85_4000x4000.jpg?sign=1776311034-89a1bc1d0b-0-4b7b7dd5c56e62640d62d35c8c63071f4ec85dda1edb1a160c1efae1b83f8180"
+                                src="/images/8726007e.png"
                                 alt="Baometi 電動歯ブラシ"
                                 className="absolute inset-0 w-full h-full object-contain z-10" />
                             {}

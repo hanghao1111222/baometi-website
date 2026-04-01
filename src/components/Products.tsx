@@ -6,7 +6,7 @@ const products = [{
     name: "Baometi T2",
     subtitle: "高級モデル",
     price: "¥29990",
-    image: "https://space.coze.cn/api/coze_space/gen_image?image_size=portrait_4_3&prompt=premium%20electric%20toothbrush%20with%20multiple%20brush%20heads%20in%20luxury%20packaging&sign=e441e5910c9cac28cdf3d0c6e7d16347",
+    image: "/images/7beacaf3.png",
 
     features: [
         "40,000回/分の超音波振動",
@@ -23,7 +23,7 @@ const products = [{
     name: "Baometi LRT1",
     subtitle: "スタンダードモデル",
     price: "¥29990",
-    image: "https://space.coze.cn/api/coze_space/gen_image?image_size=portrait_4_3&prompt=modern%20electric%20toothbrush%20in%20minimalist%20design&sign=1d510c2f1ca37fb392a02cdc52573668",
+    image: "/images/93285b5b.png",
 
     features: [
         "30,000回/分の超音波振動",
@@ -40,7 +40,7 @@ const products = [{
     name: "Baometi Kids",
     subtitle: "子供用モデル",
     price: "¥1,980",
-    image: "https://space.coze.cn/api/coze_space/gen_image?image_size=portrait_4_3&prompt=colorful%20electric%20toothbrush%20for%20kids%20with%20cartoon%20design&sign=05e5b89771a39f194acbacc7b7aa9582",
+    image: "/images/68960508.png",
 
     features: [
         "20,000回/分の超音波振動（子供用）",
@@ -108,7 +108,7 @@ const Products = () => {
                         }}>
                         <div className="relative w-full h-[400px] md:h-[500px]">
                             <img
-                                src="https://space-static.coze.site/coze_space/7618061609940664576/upload/2_2800x2800.jpg?sign=1776319097-e573b887b2-0-0a3a0e2ab399621cf456c2ec594000bf01e21fcb8cc76dd9e593e1a141529e05"
+                                src="/images/2f3de882.png"
                                 alt={products[activeProduct].name}
                                 className="absolute inset-0 w-full h-full object-contain" />
                             <div
