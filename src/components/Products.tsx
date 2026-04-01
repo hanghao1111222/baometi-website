@@ -108,7 +108,7 @@ const Products = () => {
                         }}>
                         <div className="relative w-full h-[400px] md:h-[500px]">
                             <img
-                                src="/images/2f3de882.png"
+                                src="/images/2f3de882.jpg"
                                 alt={products[activeProduct].name}
                                 className="absolute inset-0 w-full h-full object-contain" />
                             <div

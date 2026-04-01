@@ -145,7 +145,7 @@ const Hero = () => {
                         <div className="relative w-full h-[400px] md:h-[500px]">
                             {}
                             <img
-                                src="/images/8726007e.png"
+                                src="/images/8726007e.jpg"
                                 alt="Baometi 電動歯ブラシ"
                                 className="absolute inset-0 w-full h-full object-contain z-10" />
                             {}
